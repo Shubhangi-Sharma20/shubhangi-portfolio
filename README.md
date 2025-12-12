@@ -18,5 +18,4 @@ I am a Software Tester (Manual Testing) with hands-on experience in:
       - Prepared Test Cases, Bug Report
       - Includes screenshort and ddetailes project PDF
 
-** Project PDF: **
-project PDF: Click to view
+[**Project PDF: **](./Testing%20project.pdf)
