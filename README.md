@@ -1,4 +1,5 @@
-<img width="940" height="496" alt="image" src="https://github.com/user-attachments/assets/b0fe7baa-2873-4cb3-bcbf-083d68cd4b14" /># shubhangi-portfolio
+
+# shubhangi-portfolio
 This is my software testing portfolio
 
 # Hii I am Shubhangi Sharma
