@@ -18,4 +18,4 @@ I am a Software Tester (Manual Testing) with hands-on experience in:
       - Includes screenshort and ddetailes project PDF
 
 ** Project PDF: **
-[Click to view] (./Testing%20project.pdf)
+[Click to view](./testing%20project.pdf)
