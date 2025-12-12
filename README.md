@@ -16,6 +16,7 @@ I am a Software Tester (Manual Testing) with hands-on experience in:
 ### 1. DemoBlaze E-commerce Website Testing
       - Performed manual testing on UI, Functional and Regression level
       - Prepared Test Cases, Bug Report
-      - Includes screenshort and ddetailes project PDF
+      - Includes screenshort and detaild 
+      project PDF
 
 [Project PDF](https://github.com/Shubhangi-Sharma20/shubhangi-portfolio/blob/main/Testing%20project.pdf)
